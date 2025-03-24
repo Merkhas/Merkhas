@@ -1,7 +1,10 @@
 # 💫 About Me:
 
 
-🔭 Hi,  I'm Merkhas Baran Aslan<br>👯🚀 Computer Science Engineering Student and Full-Stack Developer from Iraq/Kurdistan, dedicated to creating innovative and efficient software solutions.<br>
+🔭 Hi,  I'm Merkhas Baran Aslan<br>
+
+
+🚀 Computer Science Engineering Student and Full-Stack Developer from Iraq/Kurdistan, dedicated to creating innovative and efficient software solutions.<br>
 
 
 🌱 🔭 I’m currently learning and working on Front-end & Back-end.<br>
